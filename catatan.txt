@@ -1,1 +1,2 @@
 halo, ini adalah file teks baru untuk latihan git saya.
+belajar git lewat vs code ternyata lumayan gampang.
